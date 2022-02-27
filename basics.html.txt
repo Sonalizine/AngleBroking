@@ -1,0 +1,30 @@
+
+<html>
+<body>
+
+First Name <input type='text'> </br>
+
+
+Last Name <input type='text'> </br>
+
+
+Male 	<input type='radio'> </br>
+Female  <input type='radio'> </br>
+
+<a href='https://www.google.com/'> google page </a> </br>
+
+
+<select>
+<option>India</option>
+<option>US</option>
+<option>Germany</option>
+<option>UK</option>
+</select></br>
+
+<input type='button' value='Submit'></br>
+
+
+
+
+</body>
+</html>
